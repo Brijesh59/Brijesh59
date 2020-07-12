@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![HitCount](http://hits.dwyl.com/Brijesh59/Brijesh59.svg)](http://hits.dwyl.com/Brijesh59/Brijesh59)
 
 <!--
 **Brijesh59/Brijesh59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
