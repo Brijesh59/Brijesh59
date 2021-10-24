@@ -1,7 +1,7 @@
 ### Hi there, I am Brijesh 👋
 ![](https://raw.githubusercontent.com/Brijesh59/Brijesh59/master/boarding.png)
 
-[![HitCount](http://hits.dwyl.com/Brijesh59/Brijesh59.svg)](http://hits.dwyl.com/Brijesh59/Brijesh59) <br />
+<!-- [![HitCount](http://hits.dwyl.com/Brijesh59/Brijesh59.svg)](http://hits.dwyl.com/Brijesh59/Brijesh59) <br /> -->
 I'm a software engineer, passionate about creating technology and applications to elevate people and businesses. Some technologies I enjoy working with include React.js, Material UI, Node.js, Express, MongoDB, REST APIs and React Native. <br />
 Check out my portfolio for more insights: www.kumarbrijesh.com
 
