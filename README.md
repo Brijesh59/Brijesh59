@@ -1,20 +1,89 @@
-### Hi there, I am Brijesh 👋
-![](https://raw.githubusercontent.com/Brijesh59/Brijesh59/master/boarding.png)
+# Hi, I'm Brijesh 👋
 
-<!-- [![HitCount](http://hits.dwyl.com/Brijesh59/Brijesh59.svg)](http://hits.dwyl.com/Brijesh59/Brijesh59) <br /> -->
-I'm a software engineer, passionate about creating technology and applications to elevate people and businesses. Some technologies I enjoy working with include React.js, Material UI, Node.js, Express, MongoDB, REST APIs and React Native. <br />
-Check out my portfolio for more insights: https://www.brijeshkumar.me
+📍 **India** | 🧠 **AI-SaaS Builder** | 🚀 **Engineering Lead @ SCAURA**
 
-### Languages and Tools:
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+> Shipping scalable SaaS products with clean architecture and AI-first thinking. From infrastructure to UX — I build systems that scale to 100k+ users without drama.
+
+<!--  🌊 **Peakkk** – AI-powered collaboration platform for creators & teams. -->
+
+---
+
+## Current Projects
+
+- 🧠 **AI Support Platform** – Multi-tenant AI support system (RAG + email + ticket sync with Jira)
+- 🔎 **AI Self-Search Engine** – Personal knowledge indexing (Docs, Notion, PDFs, Sheets → natural language Q&A)
+- 🎥 **Peakkk** – Content collaboration platform with media workflows & publishing pipelines
+- 📊 **Monitoring Stack Research** – Sentry + CloudWatch + cost optimization for AWS workloads
+- 🔐 **Multi-tenant SaaS Architecture Patterns** – Workspaces, RBAC, environment isolation
+
+---
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Brijesh59)
+
+---
+
+## What I'm Doing
+
+- **Building AI-native SaaS products** – From RAG systems to agent-based workflows
+- **Optimizing AWS Infrastructure** – ECS (Fargate + EC2), Aurora PostgreSQL, Terraform IaC
+- **Leading Engineering @ SCAURA** – Architecture decisions, scalability, cost control
+- **Exploring Agentic Workflows** – AI that reads emails, answers support, creates tickets
+- **Refining DevOps Pipelines** – GitHub Actions + ECR + ECS + environment-based tagging
+
+---
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Coming soon 🚀
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Connect
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brijesh-kumar-kushwaha/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/brij_k_vasi)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Brijesh59/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@brij_k_vasi)
+
+
+---
+
+### Recognition
+
+- 7+ years building production-grade web & mobile applications
+- Engineering Lead managing scalable AWS infrastructure
+- Delivered SaaS systems serving 100k+ users
+- Strong focus on cost-optimized cloud architecture
+
+---
+
+### Philosophy
+
+> "Build for scale. Optimize for clarity. Ship fast — but ship right."
+
+I transform ideas into scalable systems. I care deeply about architecture, developer experience, and long-term maintainability.
+
+<details>
+<summary>Random Facts</summary>
+
+- Love clean monorepo setups
+- Strong bias for PostgreSQL over NoSQL (unless justified)
+- Gym + deep work + tea = perfect day
+- Currently obsessed with AI agents + SaaS automation
+
+</details>
